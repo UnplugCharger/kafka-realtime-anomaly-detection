@@ -17,4 +17,6 @@ The dataset that will be used for this project is a kaggle dataset
     
     
     
-![alt text](https://github.com/UnplugCharger/first-go-serverless/blob/master/flowchart.png?raw=true)
+![alt text](https://github.com/UnplugCharger/kafka-realtime-anomaly-detection/blob/main/flowDiagram.png?raw=true)
+
+
