@@ -14,3 +14,7 @@ The dataset that will be used for this project is a kaggle dataset
 
 3.  Use Kafka to send Fraudelent Transactions and Unfraudelent Transactions to different notification channels
     for my case these will be slack channels
+    
+    
+    
+![alt text](https://github.com/UnplugCharger/first-go-serverless/blob/master/flowchart.png?raw=true)
