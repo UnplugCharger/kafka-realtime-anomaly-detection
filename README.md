@@ -10,7 +10,7 @@ The dataset that will be used for this project is a kaggle dataset
 
 1.  Simulate streamming data using the data provided in the CSV file
 
-2.  Perfom Machine Learning on the Stream Using SPARK
+2.  Perfom Machine Learning on the streams
 
 3.  Use Kafka to send Fraudelent Transactions and Unfraudelent Transactions to different notification channels
     for my case these will be slack channels
